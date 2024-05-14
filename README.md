@@ -15,7 +15,7 @@ This is a custom ERC-20 token built using the OpenZeppelin library. This smart c
 
 ## Authors
 
-NTCIAN Angela Morta
+NTCIAN Angela Morta <br>
 Discord: @angelaaa#0676
 
 ## License
